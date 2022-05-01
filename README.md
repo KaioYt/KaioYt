@@ -23,11 +23,9 @@
  
  ![Gabriel-Jesus](https://user-images.githubusercontent.com/103225660/166127344-d8708a5a-8303-4f57-95de-c62d6355f615.png)
     ![Gabriel-Jesus-2](https://user-images.githubusercontent.com/103225660/166127347-bb93c5f4-c4b6-41ef-96ad-9c43c5154690.png)
+![RODÍZIO PIZZARIA](https://user-images.githubusercontent.com/103225660/166128445-1736e775-8999-4499-9377-a176cb67d3d0.jpg)
+ ![construção-civil](https://user-images.githubusercontent.com/103225660/166128424-7276bf39-868f-44d5-b5c8-6585a4a96c7b.png)
+ ![Sem-Título-1](https://user-images.githubusercontent.com/103225660/166128413-2bb1964f-c652-4da1-92ec-e538e503ec9e.png)
 
- 
- <div>
- <a href="https://www.instagram.com/kaiogsdesigner__/" target="_blank"><img src="https://imagensemoldes.com.br/wp-content/uploads/2020/04/%C3%8Dcone-Instagram-PNG-1024x1024.png" width="30" height="30" target="blank"></a> 
-  <a href="https://www.youtube.com/channel/UCYJUBW3mlfSWbrylgDSRJ3w" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="30" height="30" target="_blank"></a>
-<div>  
 
 
