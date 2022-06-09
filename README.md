@@ -10,7 +10,9 @@
 
 ### ➰DOWNALOD JOGO PONG➰
 
-[pong_2022_06_09_15_00_35.zip](https://github.com/KaioYt/KaioYt/files/8871572/pong_2022_06_09_15_00_35.zip)
+<a href="[pong_2022_06_09_15_00_35.zip](https://github.com/KaioYt/KaioYt/files/8871572/pong_2022_06_09_15_00_35.zip)" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-   badge&logo=youtube&logoColor=white" target="_blank"></a>
+
+
 
 ### Copiar os Códgos:
  
@@ -199,11 +201,6 @@ function marcaPontos() {
 }
 
  ````
-
-
- <a href="[pong_2022_06_09_15_00_35.zip](https://github.com/KaioYt/KaioYt/files/8871572/pong_2022_06_09_15_00_35.zip)" target="_blank"><img src="[(https://user-images.githubusercontent.com/103225660/172880894-6b211b91-95b6-4dbb-8a25-cb1a83ca7ab1.png)](https://e7.pngegg.com/pngimages/995/848/png-clipart-logo-red-button-icons-logos-emojis-download-buttons.png)
-" target="_blank"></a>
-
 
 
 ### ➰ALGUMAS ARTES➰
