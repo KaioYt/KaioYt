@@ -1,4 +1,6 @@
 # Olá! Eu sou o Kaio Gremaschi 👋
+Sou apaixonado por tecnologias, educação e mudar vidadas de pessoas!
+
 
 [![Site](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://kaiogremaschi.cf)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCDC5ud6OkknTRbVHKgg6-cw)
@@ -31,8 +33,6 @@
 <div style="display: inline_block">
     <img align="center" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PhPError">
 </div>
-
-Sou apaixonado por tecnologias, educação e mudar vidadas de pessoas!
 
 ## Últimos vídeos:
 
