@@ -1,5 +1,5 @@
 # Olá! Eu sou o Kaio Gremaschi 👋
-Sou apaixonado por tecnologias, educação e mudar vidadas de pessoas!
+Sou apaixonado por tecnologias, educação e mudar vidas de pessoas!
 
 
 [![Site](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://kaiogremaschi.cf)
