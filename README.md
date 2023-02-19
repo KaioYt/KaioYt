@@ -37,3 +37,10 @@ Sou apaixonado por tecnologias, educação e mudar vidas de pessoas!
 ## Últimos vídeos:
 
 - [Criando uma LandingPage](https://www.youtube.com/watch?v=ZuTCYSy5IPQ&t=55s)
+
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+</p>
+
