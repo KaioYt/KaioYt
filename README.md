@@ -39,7 +39,6 @@ Sou apaixonado por tecnologias, educação e mudar vidas de pessoas!
 - [Criando uma LandingPage](https://www.youtube.com/watch?v=ZuTCYSy5IPQ&t=55s)
 
 
-![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
 
 
 <p align="center"> 
